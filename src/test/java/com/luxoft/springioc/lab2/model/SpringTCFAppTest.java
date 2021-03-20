@@ -19,7 +19,7 @@ import com.luxoft.springioc.lab2.model.UsualPerson;
 public class SpringTCFAppTest {
 	
 	@Autowired
-	private UsualPerson person;
+	private Person person;
 
 	private UsualPerson expectedPerson;
 	
